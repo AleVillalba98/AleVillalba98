@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Villalba
 
-<!--
-**AleVillalba98/AleVillalba98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico Superior en Seguridad Informática** | Buenos Aires, Argentina 🇦🇷
 
-Here are some ideas to get you started:
+Estoy construyendo mi camino en ciberseguridad con foco en **detección, respuesta e investigación de incidentes**. En este repositorio documento mis laboratorios, proyectos y aprendizajes, tanto del lado defensivo (blue team) como del ofensivo (red team), siempre en entornos propios o laboratorios autorizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/alejandro-villalba/) · `alejandrovillalba98@gmail.com`
+
+---
+
+## 🎯 Qué estoy buscando
+
+Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, soporte de seguridad o roles afines), donde pueda aportar a la protección de entornos tecnológicos y seguir creciendo.
+
+## 🧰 Perfil técnico
+
+| Área | Herramientas y conocimientos |
+|---|---|
+| **Sistemas operativos** | Linux (Kali), Windows |
+| **Seguridad ofensiva** | Nmap, Burp Suite, Metasploit, Hydra, Nikto, Aircrack-ng |
+| **Análisis y defensa** | Wireshark, análisis de vulnerabilidades, gestión de incidentes, OSINT |
+| **Redes** | TCP/IP, DNS, DHCP, firewalls, modelo OSI |
+| **Virtualización** | VMware, VirtualBox |
+| **Otros** | Microsoft 365, soporte IT nivel 1 |
+
+## 🎓 Formación y certificaciones
+
+- **Técnico Superior en Seguridad Informática**: Teclab (2022 - 2024)
+- **Experto Universitario en Hacking Ético**: UTN
+- **Google Cybersecurity Professional Certificate**: 🚧 en curso
+- **Introducción a la Ciberseguridad**: Cisco Networking Academy
+- **Google IT Support**: Junior Achievement
+
+## 🗂️ Proyectos
+
+> Cada proyecto tiene su propio repositorio o carpeta con README, capturas y conclusiones.
+
+| Proyecto | Descripción | Herramientas | Estado |
+|---|---|---|---|
+| **Home lab de detección** | Red virtual con Kali, Windows y Linux, más un SIEM. Simulo ataques y documento cómo se ven en los logs. | VMware/VirtualBox, Wazuh, Kali | 🚧 En progreso |
+| **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark | 🚧 En progreso |
+| **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng | 📝 Por documentar |
+| **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto | 📝 Por documentar |
+| **Escaneo y enumeración de servicios** | Detección de puertos y servicios en entornos virtualizados. | Nmap | 📝 Por documentar |
+
+*(Reemplazá el estado por ✅ y agregá el link a medida que termines cada uno.)*
+
+## 🧪 Writeups de laboratorios y CTFs
+
+Resolución documentada de máquinas y desafíos: objetivo, pasos, herramientas, qué aprendí y cómo se podría detectar o mitigar.
+
+| Plataforma | Laboratorio | Link |
+|---|---|---|
+| TryHackMe | _(nombre de la sala)_ | _(link al writeup)_ |
+| Hack The Box | _(nombre de la máquina)_ | _(link al writeup)_ |
+| CyberDefenders / picoCTF | _(nombre del reto)_ | _(link al writeup)_ |
+
+## 📄 Plantillas e informes
+
+- Ejemplo de **informe de vulnerabilidades** _(próximamente)_
+- Ejemplo de **reporte de incidente** _(próximamente)_
+
+## 🌱 Qué estoy aprendiendo ahora
+
+- Completar el Google Cybersecurity Professional Certificate
+- Análisis de logs y detección con un SIEM
+- Automatización con Python y Bash
+
+## ⚖️ Nota ética
+
+Todo el contenido de este repositorio se realiza en **laboratorios propios o plataformas de práctica autorizadas**. No se publican credenciales, datos reales ni información de terceros.
+
+---
+
+⭐ Si algo de lo que subo te sirve o querés intercambiar ideas, escribime por LinkedIn.
