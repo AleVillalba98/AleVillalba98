@@ -4,7 +4,7 @@
 
 Estoy construyendo mi camino en ciberseguridad con foco en **detección, respuesta e investigación de incidentes**. En este repositorio documento mis laboratorios, proyectos y aprendizajes, tanto del lado defensivo (blue team) como del ofensivo (red team), siempre en entornos propios o laboratorios autorizados.
 
-📫 **Contacto:** [LinkedIn](https://linkedin.com/in/alejandro-villalba/) · `alejandrovillalba98@gmail.com`
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/alejandro-villalba/) · `alejandrovillalba200@gmail.com`
 
 ---
 
