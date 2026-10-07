@@ -33,7 +33,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 
 ## 🗂️ Proyectos
 
-> Cada proyecto tiene su propio repositorio o carpeta con README, capturas y conclusiones.
+> Estoy documentando mis proyectos; se irán sumando acá
 
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
@@ -51,14 +51,14 @@ Resolución documentada de máquinas y desafíos: objetivo, pasos, herramientas,
 
 | Plataforma | Laboratorio | Link |
 |---|---|---|
-| TryHackMe | _(nombre de la sala)_ | _(link al writeup)_ |
-| Hack The Box | _(nombre de la máquina)_ | _(link al writeup)_ |
-| CyberDefenders / picoCTF | _(nombre del reto)_ | _(link al writeup)_ |
+| TryHackMe |  |  |
+| Hack The Box |  |  |
+| CyberDefenders / picoCTF |  |  |
 
 ## 📄 Plantillas e informes
 
-- Ejemplo de **informe de vulnerabilidades** _(próximamente)_
-- Ejemplo de **reporte de incidente** _(próximamente)_
+- Ejemplo de **informe de vulnerabilidades** 
+- Ejemplo de **reporte de incidente** 
 
 ## 🌱 Qué estoy aprendiendo ahora
 
