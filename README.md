@@ -56,8 +56,8 @@ Resolución documentada de máquinas y desafíos: objetivo, pasos, herramientas,
 
 ## 📄 Plantillas e informes
 
-- Ejemplo de **informe de vulnerabilidades** 
-- Ejemplo de **reporte de incidente** 
+- 
+- 
 
 ## 🌱 Qué estoy aprendiendo ahora
 
