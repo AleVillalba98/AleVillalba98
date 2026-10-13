@@ -38,26 +38,11 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
 | **[Home lab de detección](https://github.com/AleVillalba98/homelab-wazuh-siem)** | Red virtual con Kali, Windows y Linux, más un SIEM. Simulo ataques y documento cómo se ven en los logs. | VMware/VirtualBox, Wazuh, Kali | 🚧 En progreso |
-| **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark |  |
-| **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng |  |
-| **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto |  |
-| **Escaneo y enumeración de servicios** | Detección de puertos y servicios en entornos virtualizados. | Nmap |  |
+| **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark | 🚧 En progreso |
+| **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng | 🚧 En progreso |
+| **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto | 🚧 En progreso |
+| **Escaneo y enumeración de servicios** | Detección de puertos y servicios en entornos virtualizados. | Nmap | 🚧 En progreso |
 
-
-## 🧪 Writeups de laboratorios y CTFs
-
-Resolución documentada de máquinas y desafíos: objetivo, pasos, herramientas, qué aprendí y cómo se podría detectar o mitigar.
-
-| Plataforma | Laboratorio | Link |
-|---|---|---|
-| TryHackMe |  |  |
-| Hack The Box |  |  |
-| CyberDefenders / picoCTF |  |  |
-
-## 📄 Plantillas e informes
-
-- 
-- 
 
 ## 🌱 Qué estoy aprendiendo ahora
 
