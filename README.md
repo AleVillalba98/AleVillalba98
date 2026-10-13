@@ -37,7 +37,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
-| **Home lab de detección** | Red virtual con Kali, Windows y Linux, más un SIEM. Simulo ataques y documento cómo se ven en los logs. | VMware/VirtualBox, Wazuh, Kali | 🚧 En progreso |
+| **[Home lab de detección](https://github.com/AleVillalba98/homelab-wazuh-siem)** | Red virtual con Kali, Windows y Linux, más un SIEM. Simulo ataques y documento cómo se ven en los logs. | VMware/VirtualBox, Wazuh, Kali | 🚧 En progreso |
 | **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark | 🚧 En progreso |
 | **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng | 📝 Por documentar |
 | **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto | 📝 Por documentar |
