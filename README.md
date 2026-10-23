@@ -38,10 +38,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
 | **[Home lab de detección con Wazuh](https://github.com/AleVillalba98/homelab-wazuh-siem)** | SIEM Wazuh sobre Ubuntu Server con un endpoint Windows 11. Genero actividad sospechosa en mi propia VM y documento cómo se detecta y cómo se relaciona con MITRE ATT&CK. | VirtualBox, Wazuh, Ubuntu Server, Windows 11 | 🚧 En progreso (primera fase completa) |
-| **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark | 🚧 En progreso |
-| **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng | 🚧 En progreso |
-| **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto | 🚧 En progreso |
-| **Escaneo y enumeración de servicios** | Detección de puertos y servicios en entornos virtualizados. | Nmap | 🚧 En progreso |
+
 
 
 ## 🌱 Qué estoy aprendiendo ahora
