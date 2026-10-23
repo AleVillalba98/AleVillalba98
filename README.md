@@ -18,7 +18,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 |---|---|
 | **Sistemas operativos** | Linux (Kali), Windows |
 | **Seguridad ofensiva** | Nmap, Burp Suite, Metasploit, Hydra, Nikto, Aircrack-ng |
-| **Análisis y defensa** | Wireshark, análisis de vulnerabilidades, gestión de incidentes, OSINT |
+| **Análisis y defensa** | Wazuh (SIEM), MITRE ATT&CK, Wireshark, análisis de vulnerabilidades, gestión de incidentes |
 | **Redes** | TCP/IP, DNS, DHCP, firewalls, modelo OSI |
 | **Virtualización** | VMware, VirtualBox |
 | **Otros** | Microsoft 365, soporte IT nivel 1 |
@@ -37,7 +37,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
-| **[Home lab de detección](https://github.com/AleVillalba98/homelab-wazuh-siem)** | Red virtual con Kali, Windows y Linux, más un SIEM. Simulo ataques y documento cómo se ven en los logs. | VMware/VirtualBox, Wazuh, Kali | 🚧 En progreso |
+| **[Home lab de detección con Wazuh](https://github.com/AleVillalba98/homelab-wazuh-siem)** | SIEM Wazuh sobre Ubuntu Server con un endpoint Windows 11. Genero actividad sospechosa en mi propia VM y documento cómo se detecta y cómo se relaciona con MITRE ATT&CK. | VirtualBox, Wazuh, Ubuntu Server, Windows 11 | 🚧 En progreso (primera fase completa) |
 | **Análisis de tráfico de un incidente** | Investigación de una captura de red: identificación de actividad sospechosa e informe de hallazgos. | Wireshark | 🚧 En progreso |
 | **Auditoría de red WiFi (laboratorio propio)** | Evaluación de seguridad de una red de pruebas y recomendaciones de mitigación. | Aircrack-ng | 🚧 En progreso |
 | **Auditoría web en entorno controlado** | Reconocimiento y enumeración de vulnerabilidades en una aplicación de práctica. | Burp Suite, Nikto | 🚧 En progreso |
@@ -47,7 +47,7 @@ Mi primer puesto **Junior** en ciberseguridad (SOC, análisis de incidentes, sop
 ## 🌱 Qué estoy aprendiendo ahora
 
 - Completar el Google Cybersecurity Professional Certificate
-- Análisis de logs y detección con un SIEM
+- Detección y análisis de alertas con Wazuh
 - Automatización con Python y Bash
 
 ## ⚖️ Nota ética
